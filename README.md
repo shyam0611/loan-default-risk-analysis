@@ -1,13 +1,13 @@
-# 📊 Loan Default Risk Analysis
+#  Loan Default Risk Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes loan default behavior using Excel and Power BI to identify key risk factors affecting loan repayment.
 
 Loan default is a major challenge for financial institutions as it leads to financial losses and increased credit risk. This project applies data analysis techniques to understand borrower behavior and identify high-risk segments.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Calculate overall loan default rate  
 - Identify key factors influencing default  
 - Segment customers based on risk  
@@ -16,13 +16,13 @@ Loan default is a major challenge for financial institutions as it leads to fina
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Excel – Data Cleaning & Analysis  
 - Power BI – Dashboard & Visualization  
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Low income customers have higher default risk  
 - Large loans increase default probability  
 - Unemployed customers show higher risk  
@@ -31,12 +31,12 @@ Loan default is a major challenge for financial institutions as it leads to fina
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
 
 ---
 
-## 📊 Visual Analysis
+##  Visual Analysis
 
 ### Income vs Default
 ![Income](images/income_vs_default.png)
@@ -55,27 +55,27 @@ Loan default is a major challenge for financial institutions as it leads to fina
 
 ---
 
-## 📄 Report
+##  Report
 Detailed report is available in the repository:
 - Loan_Default_Risk_Analysis.pdf
 
 ---
 
-## 🔗 Dataset
+##  Dataset
 Due to file size limitations, dataset is shared via Google Drive:
 
 https://docs.google.com/spreadsheets/d/1ftc4Fl-8y6CiPozxbbcYk9QlcZQNW1sy/edit?usp=drive_link&ouid=115642700362092779695&rtpof=true&sd=true
 
 ---
 
-## 🔗 Power BI File
+##  Power BI File
 Due to file size limitations, Power BI file is shared via Google Drive:
 
 https://drive.google.com/file/d/1ExOwJGGnAK-0Mn0ZLukA6iHN9_akVzA-/view?usp=drive_link
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Restrict large loans for low-income customers  
 - Apply stricter approval for unemployed applicants  
 - Use risk-based pricing  
