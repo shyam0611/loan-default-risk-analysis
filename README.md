@@ -27,7 +27,7 @@ Loan default is a major challenge for financial institutions as it leads to fina
 - Large loans increase default probability  
 - Unemployed customers show higher risk  
 - Highest risk segment:
-  👉 Low Income + Large Loan (~32% Default Rate)  
+  Low Income + Large Loan (~32% Default Rate)  
 
 ---
 
@@ -83,5 +83,5 @@ https://drive.google.com/file/d/1ExOwJGGnAK-0Mn0ZLukA6iHN9_akVzA-/view?usp=drive
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates how data analytics can be used to identify high-risk customers and improve loan approval decisions.
