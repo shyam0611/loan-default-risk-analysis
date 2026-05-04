@@ -57,7 +57,7 @@ Loan default is a major challenge for financial institutions as it leads to fina
 
 ##  Report
 Detailed report is available in the repository:
-- Loan_Default_Risk_Analysis.pdf
+- ![Loan_Default_Risk_Analysis.pdf]
 
 ---
 
